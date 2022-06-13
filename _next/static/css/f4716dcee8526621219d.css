@@ -1096,7 +1096,9 @@ video {
 }
 
 .text-18 {
-    font-size: 1.8rem
+    font-size: 5.8rem;
+    padding: 50px;
+    font-style: italic;
 }
 
 .text-25 {
@@ -1139,7 +1141,7 @@ video {
 
 .text-purple-400 {
     --tw-text-opacity: 1;
-    color: rgba(167, 139, 250, var(--tw-text-opacity))
+    color: black
 }
 
 .text-red-200 {
@@ -1535,7 +1537,7 @@ button {
     }
 
     .s\:text-18 {
-        font-size: 1.8rem
+        font-size: 3.8rem
     }
 }
 

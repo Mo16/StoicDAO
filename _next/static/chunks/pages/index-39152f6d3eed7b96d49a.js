@@ -67,7 +67,7 @@
                             className: "",
                             name: "Sammy",
                             text: (0, h.jsx)("div", {
-                                className: "txt-s text-20 s:text-18",
+                                className: "txt-s text-20 s:text-17",
                                 children: (0, h.jsx)("p", {
                                     children: "My name is Sammy and I have been investing in cryptocurrency since 2017! I have a postgraduate diploma in digital marketing, and a bachelors degree in Business Administration. I have been a part of several successful projects in DeFi and can’t wait to apply my knowledge to Stoic Dao!"
                                 })
@@ -78,7 +78,7 @@
                             className: "col-span-4",
                             name: "Thomas",
                             text: (0, h.jsxs)("div", {
-                                className: "txt-s text-20 s:text-18",
+                                className: "txt-s text-20 s:text-17",
                                 children: [(0, h.jsx)("p", {
                                     children: "Hello, Im Thomas and this will be the 5th project in DeFi that I will be apart of. The Stoic Dao is one that I am truly humbled and grateful to be apart of! I have a bachelors degree in Business & Marketing and a minor in Finance. Ive been a blockchain enthusiast since 2017 and have been actively trading to current date. Fun fact about me is I was once a top 1000 holder in BNB."
                                 })]
@@ -93,10 +93,10 @@
             //     {
             //     title: "50%",
             //     items: [{
-            //         text: 'Donating $25k to <a href="https://twitter.com/Red_Panda_Squad/status/1444468158753120256" target="_blank"><u>[PROJECT NAME] Network</u></a>',
+            //         text: 'Donating $25k to <a href="https://twitter.com/Red_Panda_Squad/status/1444468158753120256" target="_blank"><u>StoicDao Network</u></a>',
             //         status: !0
             //     }, {
-            //         text: 'Member exclusive [PROJECT NAME] <a href="https://redpandasquad.com/#merch" target="_blank"><u>merch store</u></a> gets unlocked, featuring limited edition -<br/><span className="flex text-purple-700 mt-[2rem]"> <a href="https://twitter.com/Red_Panda_Squad/status/1447918557631852553" target="_blank"><u>Phone cases</u></a>, mousepads, hoodies, facemasks, shirts, tanktops, caps, mugs, socks, stickers, shorts.</span>',
+            //         text: 'Member exclusive StoicDao <a href="https://redpandasquad.com/#merch" target="_blank"><u>merch store</u></a> gets unlocked, featuring limited edition -<br/><span className="flex text-purple-700 mt-[2rem]"> <a href="https://twitter.com/Red_Panda_Squad/status/1447918557631852553" target="_blank"><u>Phone cases</u></a>, mousepads, hoodies, facemasks, shirts, tanktops, caps, mugs, socks, stickers, shorts.</span>',
             //         status: !1
             //     }, {
             //         text: "Merch package giveaways.",
@@ -105,10 +105,10 @@
             // }, {
             //     title: "75%",
             //     items: [{
-            //         text: 'Donating $25k to <a href="https://redpandanetwork.org/" target="_blank"><u>[PROJECT NAME] Network.</u></a>',
+            //         text: 'Donating $25k to <a href="https://redpandanetwork.org/" target="_blank"><u>StoicDao Network.</u></a>',
             //         status: !1
             //     }, {
-            //         text: '<a href="https://www.youtube.com/watch?v=QVf1IuTqIps" target="_blank"><u>Street art [PROJECT NAME] creation in London with Graffiti Kings.</u></a>',
+            //         text: '<a href="https://www.youtube.com/watch?v=QVf1IuTqIps" target="_blank"><u>Street art StoicDao creation in London with Graffiti Kings.</u></a>',
             //         status: !0
             //     }]
             // }, {
@@ -123,7 +123,7 @@
             //         text: "RPS surprise wheel.",
             //         status: !0
             //     }, {
-            //         text: 'The squad gallery.<br /><span className="flex text-purple-700 mt-[2rem]">An interactive image gallery of all the adopted (minted) [PROJECT NAME PLURAL].</span>',
+            //         text: 'The squad gallery.<br /><span className="flex text-purple-700 mt-[2rem]">An interactive image gallery of all the adopted (minted) StoicDao.</span>',
             //         status: !0
             //     }]
             // }, {
@@ -138,7 +138,7 @@
             //         text: "DJ live sets for our holders.",
             //         status: !1
             //     }, {
-            //         text: "Real-life events - A trip to the [PROJECT NAME PLURAL] & more.",
+            //         text: "Real-life events - A trip to the StoicDao & more.",
             //         status: !1
             //     }, {
             //         text: "Recurring Twitter Spaces.",
@@ -159,10 +159,10 @@
             //         text: "The RPS DAO: A community-backed organisation helping the Solana ecosystem flourish, through incubation of new projects, arranging partnerships with various protocols and mutual investing in rare SOL collectibles.",
             //         status: !1
             //     }, {
-            //         text: "Private RPS website for [PROJECT NAME] NFT holders with unique events, fun games (tamagotchi style) and more.",
+            //         text: "Private RPS website for StoicDao NFT holders with unique events, fun games (tamagotchi style) and more.",
             //         status: !1
             //     }, {
-            //         text: "Development of the RPSG ([PROJECT NAME] Game) where we enter the metaverse and can use our [PROJECT NAME PLURAL] to play and earn.",
+            //         text: "Development of the RPSG (StoicDao Game) where we enter the metaverse and can use our StoicDao to play and earn.",
             //         status: !1
             //     }, {
             //         text: '<a href="https://twitter.com/Red_Panda_Squad/status/1448044405965967363" target="_blank"><u>Special airdrops for holders as puzzle pieces of the animated series.</u></a>',
@@ -171,13 +171,13 @@
             //         text: '<a href="https://twitter.com/Red_Panda_Squad/status/1452682047080775685" target="_blank"><u>Exclusive Halloween Airdrop for holders of specific traits.</u></a>',
             //         status: !0
             //     }, {
-            //         text: "Launch of our own marketplace with 50%+ royalty redistribution to the [PROJECT NAME] DAO.",
+            //         text: "Launch of our own marketplace with 50%+ royalty redistribution to the StoicDao DAO.",
             //         status: !1
             //     }, {
             //         text: "Questing with gen2 airdrops of our animated series.",
             //         status: !1
             //     }, {
-            //         text: "Ongoing integration of our [PROJECT NAME] NFTs with a multitude of Metaverse projects.",
+            //         text: "Ongoing integration of our StoicDao NFTs with a multitude of Metaverse projects.",
             //         status: !0
             //     }]
             // }
@@ -240,45 +240,50 @@
                     ref: e,
                     className: "bg-pattern s:pb-200 pt-200 s:pt-0",
                     children: (0, h.jsxs)("div", {
-                        className: "relative h-screen w-full s:flex flex-wrap items-center justify-between px-45 s:px-100",
+                        className: "relative h-screen w-full  s:flex flex-wrap items-center justify-between px-45 s:px-100",
                         children: [(0, h.jsxs)("div", {
                             className: "relative z-2 w-full s:w-7/12 s:mr-auto",
                             children: [(0, h.jsxs)("h1", {
                                 className: "text-60 s:text-90 l:text-[11rem] xl:text-90 text-white tracking-tighter leading-none js-i-title",
                                 children: ["Welcome to the ", (0, h.jsx)("br", {
                                     className: "hidden s:block"
-                                }), "[PROJECT NAME]"]
+                                }), "StoicDao"]
                             }), (0, h.jsx)("p", {
                                 className: "s:w-9/12 mt-40 l:text-22 xl:text-22 js-i-text",
                                 children: ""
                             }), (0, h.jsxs)("div", {
-                                className: "flex flex-wrap mt-30 js-i-buttons",
+                                className: "flex flex-wrap mt-3 js-i-buttons",
                                 children: [(0, h.jsxs)("a", {
                                     href: "https://redpandasquad.medium.com/introducing-the-red-panda-squad-3d29b31205b6",
                                     target: "_blank",
                                     rel: "noreferrer",
-                                    className: "mt-20 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-red-400 rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-red-500 wct",
-                                    children: ["Join the whitelist", (0, h.jsx)("svg", {
+                                    className: "mt-20 group mr-20 flex items-center leading-none font-italic h-[5.5rem] px-20 bg-red-400 rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-red-500 wct ",
+                                    children: ["Join the whitelist ↗", (0, h.jsx)("svg", {
                                         viewBox: "0 0 1043.63 592.71",
                                         className: "h-[1.75rem] w-[auto] fill-current ml-[0.75rem]",
+                                        
 
-                                    })]
-                                }), (0, h.jsxs)("a", {
-                                    href: "#youtube",
-                                    className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
-                                    children: ["Mint (Coming soon)", (0, h.jsx)("img", {
-                                        // src: "/youtube.png",
-                                        alt: "",
-                                        className: "ml-[1rem] w-auto h-[3rem]"
-                                    })]
-                                }), (0, h.jsx)("button", {
+                                    }
+                                    )]
+                                },), 
+                                // (0, h.jsxs)("a", {
+                                //     href: "#youtube",
+                                //     className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
+                                //     children: ["Mint (Coming soon)", (0, h.jsx)("img", {
+                                //         // src: "/youtube.png",
+                                //         alt: "",
+                                //         className: "ml-[1rem] w-auto h-[3rem]"
+                                //     })]
+                                // }),
+                                
+                                (0, h.jsx)("button", {
 
                                     // onClick: function () {
                                     //     return s(!a)
                                     // },
                                     // type: "button",
                                     // className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
-                                    // children: "Buy Your [PROJECT NAME]"
+                                    // children: "Buy Your StoicDao"
 
                                 })]
                             })]
@@ -473,7 +478,7 @@
                     //             children: "Fair Distribution"
                     //         }), (0, h.jsxs)("p", {
                     //             className: "text-28 js-s-fade",
-                    //             children: ["Our Initial Sale is Sold Out! You can adopt your own [PROJECT NAME] at ", (0, h.jsx)("a", {
+                    //             children: ["Our Initial Sale is Sold Out! You can adopt your own StoicDao at ", (0, h.jsx)("a", {
                     //                 href: "https://solanart.io/collections/redpandasquad",
                     //                 target: "_blank",
                     //                 children: (0, h.jsx)("u", {
@@ -571,19 +576,19 @@
             }
             var _ = [{
                 question: "When was launch day?",
-                text: "On the 24th September at 7PM UTC the minting on our website went live. Our 10,000 [PROJECT NAME] NFT collection was sold out in ~ 10 minutes."
+                text: "On the 24th September at 7PM UTC the minting on our website went live. Our 10,000 StoicDao NFT collection was sold out in ~ 10 minutes."
             }, {
-                question: "How can I get a [PROJECT NAME]?",
-                text: 'We have sold out! But you can buy your [PROJECT NAME] on verified secondary marketplaces such as at <a href="https://solanart.io/collections/redpandasquad" target="_blank"><u>Solanart</u></a>, <a href="https://alpha.art/collection/red-panda-squad" target="_blank"><u>Alpha Art</u></a>, <a href="https://ftx.us/nfts/collection/Red%20Panda%20Squad/25/1" target="_blank"><u>FTX US</u></a>, <a href="https://www.magiceden.io/marketplace?collection_symbol=red_panda_squad" target="_blank"><u>MagicEden</u></a>, <a href="https://digitaleyes.market/collections/Red%20Panda%20Squad" target="_blank"><u>Digital Eyes</u></a> & <a href="https://solsea.io/collection/61534b863518e03728351695" target="_blank"><u>SolSea</u>'
+                question: "How can I get a StoicDao?",
+                text: 'We have sold out! But you can buy your StoicDao on verified secondary marketplaces such as at <a href="https://solanart.io/collections/redpandasquad" target="_blank"><u>Solanart</u></a>, <a href="https://alpha.art/collection/red-panda-squad" target="_blank"><u>Alpha Art</u></a>, <a href="https://ftx.us/nfts/collection/Red%20Panda%20Squad/25/1" target="_blank"><u>FTX US</u></a>, <a href="https://www.magiceden.io/marketplace?collection_symbol=red_panda_squad" target="_blank"><u>MagicEden</u></a>, <a href="https://digitaleyes.market/collections/Red%20Panda%20Squad" target="_blank"><u>Digital Eyes</u></a> & <a href="https://solsea.io/collection/61534b863518e03728351695" target="_blank"><u>SolSea</u>'
             }, {
-                question: "What is a good [PROJECT NAME] to buy?",
-                text: '<a href="https://howrare.is/redpandasquad" target="_blank"><u>HowRareIs</u> shows you the ranking for our whole collection and <a href="https://solanafloor.com/nft/red-panda-squad" target="_blank"><u>Solana Floor</u></a> shows you undervalued [PROJECT NAME PLURAL] and statistics.'
+                question: "What is a good StoicDao to buy?",
+                text: '<a href="https://howrare.is/redpandasquad" target="_blank"><u>HowRareIs</u> shows you the ranking for our whole collection and <a href="https://solanafloor.com/nft/red-panda-squad" target="_blank"><u>Solana Floor</u></a> shows you undervalued StoicDao and statistics.'
             }, {
                 question: "What was the price for minting?",
                 text: "2.5 SOL"
             }, {
-                question: "Where do the [PROJECT NAME PLURAL] live?",
-                text: "Our [PROJECT NAME PLURAL] reside in the world of Solana. A land with cheap gas, instant transactions, and an unstoppable community."
+                question: "Where do the StoicDao live?",
+                text: "Our StoicDao reside in the world of Solana. A land with cheap gas, instant transactions, and an unstoppable community."
             }, {
                 question: "More questions?",
                 text: 'Join our community on either <a href="https://discord.com/invite/redpandasquad" target="_blank" className="text-purple-500">Discord</a> or <a href="https://twitter.com/Red_Panda_Squad" target="_blank" className="text-purple-500">Twitter</a> and ask us anything there.'
@@ -644,7 +649,7 @@
                 )
             }
             var q = [{
-                name: "[PROJECT NAME] Network",
+                name: "StoicDao Network",
                 url: "https://redpandanetwork.org/",
                 logo: "/logos/rpn-logo.png"
             }, {
@@ -735,7 +740,7 @@
                 //     className: "relative px-45 s:px-200 py-80 s:py-125 flex flex-col items-center justify-center bg-white",
                 //     children: [(0, h.jsx)("h2", {
                 //         className: "text-65 text-center text-purple-900 tracking-tighter leading-none w-full mb-75 js-s-fade",
-                //         children: "[PROJECT NAME] Banksy Tunnel Street Art"
+                //         children: "StoicDao Banksy Tunnel Street Art"
                 //     }), (0, h.jsxs)("div", {
                 //         className: "relative w-full shadow-2xl",
                 //         children: [(0, h.jsx)("div", {
@@ -950,16 +955,16 @@
                             rel: "shortcut icon",
                             href: "/favicon.png"
                         }), (0, h.jsx)("title", {
-                            children: "[PROJECT NAME]"
+                            children: "StoicDao"
                         }), (0, h.jsx)("meta", {
                             name: "description",
-                            content: "10,000 hand-drawn, algorithmically generated, unique, cute [PROJECT NAME] NFTs on Solana."
+                            content: "10,000 hand-drawn, algorithmically generated, unique, cute StoicDao NFTs on Solana."
                         }), (0, h.jsx)("meta", {
                             property: "og:title",
-                            content: "[PROJECT NAME]"
+                            content: "StoicDao"
                         }, "ogtitle"), (0, h.jsx)("meta", {
                             property: "og:description",
-                            content: "10,000 hand-drawn, algorithmically generated, unique, cute [PROJECT NAME] NFTs on Solana."
+                            content: "10,000 hand-drawn, algorithmically generated, unique, cute StoicDao NFTs on Solana."
                         }, "ogdesc"), (0, h.jsx)("meta", {
                             property: "og:url",
                             content: "https://redpandasquad.com/"
@@ -968,13 +973,13 @@
                             content: "https://www.redpandasquad.com/pandas/king-panda.png"
                         }, "ogimage"), (0, h.jsx)("meta", {
                             property: "og:site_name",
-                            content: "[PROJECT NAME]"
+                            content: "StoicDao"
                         }, "ogsitename"), (0, h.jsx)("meta", {
                             property: "og:title",
-                            content: "[PROJECT NAME]"
+                            content: "StoicDao"
                         }, "ogtitle"), (0, h.jsx)("meta", {
                             property: "og:description",
-                            content: "10,000 hand-drawn, algorithmically generated, unique, cute [PROJECT NAME] NFTs on Solana."
+                            content: "10,000 hand-drawn, algorithmically generated, unique, cute StoicDao NFTs on Solana."
                         }, "ogdesc"), (0, h.jsx)("meta", {
                             name: "twitter:card",
                             content: "summary"
