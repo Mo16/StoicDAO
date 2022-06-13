@@ -126,7 +126,7 @@
                             }), (0, s.jsx)("li", {
                                 className: "mx-15 s:mx-20 mb-15 s:mb-0",
                                 children: (0, s.jsxs)("a", {
-                                    href: "https://twitter.com/Red_Panda_Squad",
+                                    href: "https://twitter.com/thestoicdao",
                                     target: "_blank",
                                     className: "flex",
                                     children: ["Twitter", (0, s.jsx)("svg", {
@@ -343,7 +343,7 @@
                                 }), (0, l.jsx)("li", {
                                     className: "mr-30",
                                     children: (0, l.jsxs)("a", {
-                                        href: "https://twitter.com/Red_Panda_Squad",
+                                        href: "https://twitter.com/thestoicdao",
                                         target: "_blank",
                                         className: "flex",
                                         children: ["Twitter", (0, l.jsx)("svg", {
@@ -512,7 +512,7 @@
                             children: [(0, l.jsx)("li", {
                                 className: "",
                                 children: (0, l.jsx)("a", {
-                                    href: "https://twitter.com/Red_Panda_Squad",
+                                    href: "https://twitter.com/thestoicdao",
                                     target: "_blank",
                                     className: "flex text-30 mx-15",
                                     children: (0, l.jsx)(a.G, {

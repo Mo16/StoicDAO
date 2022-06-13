@@ -89,99 +89,99 @@
                     })]
                 })
             }
-            var f = [ 
-            //     {
-            //     title: "50%",
-            //     items: [{
-            //         text: 'Donating $25k to <a href="https://twitter.com/Red_Panda_Squad/status/1444468158753120256" target="_blank"><u>StoicDao Network</u></a>',
-            //         status: !0
-            //     }, {
-            //         text: 'Member exclusive StoicDao <a href="https://redpandasquad.com/#merch" target="_blank"><u>merch store</u></a> gets unlocked, featuring limited edition -<br/><span className="flex text-purple-700 mt-[2rem]"> <a href="https://twitter.com/Red_Panda_Squad/status/1447918557631852553" target="_blank"><u>Phone cases</u></a>, mousepads, hoodies, facemasks, shirts, tanktops, caps, mugs, socks, stickers, shorts.</span>',
-            //         status: !1
-            //     }, {
-            //         text: "Merch package giveaways.",
-            //         status: !0
-            //     }]
-            // }, {
-            //     title: "75%",
-            //     items: [{
-            //         text: 'Donating $25k to <a href="https://redpandanetwork.org/" target="_blank"><u>StoicDao Network.</u></a>',
-            //         status: !1
-            //     }, {
-            //         text: '<a href="https://www.youtube.com/watch?v=QVf1IuTqIps" target="_blank"><u>Street art StoicDao creation in London with Graffiti Kings.</u></a>',
-            //         status: !0
-            //     }]
-            // }, {
-            //     title: "100%",
-            //     items: [{
-            //         text: "Donating $25k.",
-            //         status: !1
-            //     }, {
-            //         text: 'Launch of the <a href="https://twitter.com/Red_Panda_Squad/status/1448044385199865858" target="_blank"><u>Pandaboard</u></a> with benefits for top holders.',
-            //         status: !0
-            //     }, {
-            //         text: "RPS surprise wheel.",
-            //         status: !0
-            //     }, {
-            //         text: 'The squad gallery.<br /><span className="flex text-purple-700 mt-[2rem]">An interactive image gallery of all the adopted (minted) StoicDao.</span>',
-            //         status: !0
-            //     }]
-            // }, {
-            //     title: "BYI Branding (beyond your imagination)",
-            //     items: [{
-            //         text: 'Partnerships and 1 of 1 NFT auctions, collaborating with <a href="https://twitter.com/grapeprotocol/status/1448358006710804489" target="_blank"><u>blue chip projects.</u></a></u></a>',
-            //         status: !0
-            //     }, {
-            //         text: 'Ongoing <a href="https://www.youtube.com/watch?v=isXOifl4zXA/" target="_blank"><u>Celebrity</u></a> & <a href="https://twitter.com/pentosh1/status/1445144835795603457?s=21" target="_blank"><u>Influencer</u></a> on-boarding.',
-            //         status: !1
-            //     }, {
-            //         text: "DJ live sets for our holders.",
-            //         status: !1
-            //     }, {
-            //         text: "Real-life events - A trip to the StoicDao & more.",
-            //         status: !1
-            //     }, {
-            //         text: "Recurring Twitter Spaces.",
-            //         status: !0
-            //     }, {
-            //         text: "Continuous marketing campaigns.",
-            //         status: !1
-            //     }, {
-            //         text: "RPS merch mainstream brand growth.",
-            //         status: !1
-            //     }, {
-            //         text: '<a href="https://www.youtube.com/watch?v=020w4ZGbyFw" target="_blank"><u>Launch of our animated mini-series.</u></a>',
-            //         status: !0
-            //     }]
-            // }, {
-            //     title: "True Value",
-            //     items: [{
-            //         text: "The RPS DAO: A community-backed organisation helping the Solana ecosystem flourish, through incubation of new projects, arranging partnerships with various protocols and mutual investing in rare SOL collectibles.",
-            //         status: !1
-            //     }, {
-            //         text: "Private RPS website for StoicDao NFT holders with unique events, fun games (tamagotchi style) and more.",
-            //         status: !1
-            //     }, {
-            //         text: "Development of the RPSG (StoicDao Game) where we enter the metaverse and can use our StoicDao to play and earn.",
-            //         status: !1
-            //     }, {
-            //         text: '<a href="https://twitter.com/Red_Panda_Squad/status/1448044405965967363" target="_blank"><u>Special airdrops for holders as puzzle pieces of the animated series.</u></a>',
-            //         status: !0
-            //     }, {
-            //         text: '<a href="https://twitter.com/Red_Panda_Squad/status/1452682047080775685" target="_blank"><u>Exclusive Halloween Airdrop for holders of specific traits.</u></a>',
-            //         status: !0
-            //     }, {
-            //         text: "Launch of our own marketplace with 50%+ royalty redistribution to the StoicDao DAO.",
-            //         status: !1
-            //     }, {
-            //         text: "Questing with gen2 airdrops of our animated series.",
-            //         status: !1
-            //     }, {
-            //         text: "Ongoing integration of our StoicDao NFTs with a multitude of Metaverse projects.",
-            //         status: !0
-            //     }]
-            // }
-        ];
+            var f = [
+                //     {
+                //     title: "50%",
+                //     items: [{
+                //         text: 'Donating $25k to <a href="https://twitter.com/thestoicdao/status/1444468158753120256" target="_blank"><u>StoicDao Network</u></a>',
+                //         status: !0
+                //     }, {
+                //         text: 'Member exclusive StoicDao <a href="https://redpandasquad.com/#merch" target="_blank"><u>merch store</u></a> gets unlocked, featuring limited edition -<br/><span className="flex text-purple-700 mt-[2rem]"> <a href="https://twitter.com/thestoicdao/status/1447918557631852553" target="_blank"><u>Phone cases</u></a>, mousepads, hoodies, facemasks, shirts, tanktops, caps, mugs, socks, stickers, shorts.</span>',
+                //         status: !1
+                //     }, {
+                //         text: "Merch package giveaways.",
+                //         status: !0
+                //     }]
+                // }, {
+                //     title: "75%",
+                //     items: [{
+                //         text: 'Donating $25k to <a href="https://redpandanetwork.org/" target="_blank"><u>StoicDao Network.</u></a>',
+                //         status: !1
+                //     }, {
+                //         text: '<a href="https://www.youtube.com/watch?v=QVf1IuTqIps" target="_blank"><u>Street art StoicDao creation in London with Graffiti Kings.</u></a>',
+                //         status: !0
+                //     }]
+                // }, {
+                //     title: "100%",
+                //     items: [{
+                //         text: "Donating $25k.",
+                //         status: !1
+                //     }, {
+                //         text: 'Launch of the <a href="https://twitter.com/thestoicdao/status/1448044385199865858" target="_blank"><u>Pandaboard</u></a> with benefits for top holders.',
+                //         status: !0
+                //     }, {
+                //         text: "RPS surprise wheel.",
+                //         status: !0
+                //     }, {
+                //         text: 'The squad gallery.<br /><span className="flex text-purple-700 mt-[2rem]">An interactive image gallery of all the adopted (minted) StoicDao.</span>',
+                //         status: !0
+                //     }]
+                // }, {
+                //     title: "BYI Branding (beyond your imagination)",
+                //     items: [{
+                //         text: 'Partnerships and 1 of 1 NFT auctions, collaborating with <a href="https://twitter.com/grapeprotocol/status/1448358006710804489" target="_blank"><u>blue chip projects.</u></a></u></a>',
+                //         status: !0
+                //     }, {
+                //         text: 'Ongoing <a href="https://www.youtube.com/watch?v=isXOifl4zXA/" target="_blank"><u>Celebrity</u></a> & <a href="https://twitter.com/pentosh1/status/1445144835795603457?s=21" target="_blank"><u>Influencer</u></a> on-boarding.',
+                //         status: !1
+                //     }, {
+                //         text: "DJ live sets for our holders.",
+                //         status: !1
+                //     }, {
+                //         text: "Real-life events - A trip to the StoicDao & more.",
+                //         status: !1
+                //     }, {
+                //         text: "Recurring Twitter Spaces.",
+                //         status: !0
+                //     }, {
+                //         text: "Continuous marketing campaigns.",
+                //         status: !1
+                //     }, {
+                //         text: "RPS merch mainstream brand growth.",
+                //         status: !1
+                //     }, {
+                //         text: '<a href="https://www.youtube.com/watch?v=020w4ZGbyFw" target="_blank"><u>Launch of our animated mini-series.</u></a>',
+                //         status: !0
+                //     }]
+                // }, {
+                //     title: "True Value",
+                //     items: [{
+                //         text: "The RPS DAO: A community-backed organisation helping the Solana ecosystem flourish, through incubation of new projects, arranging partnerships with various protocols and mutual investing in rare SOL collectibles.",
+                //         status: !1
+                //     }, {
+                //         text: "Private RPS website for StoicDao NFT holders with unique events, fun games (tamagotchi style) and more.",
+                //         status: !1
+                //     }, {
+                //         text: "Development of the RPSG (StoicDao Game) where we enter the metaverse and can use our StoicDao to play and earn.",
+                //         status: !1
+                //     }, {
+                //         text: '<a href="https://twitter.com/thestoicdao/status/1448044405965967363" target="_blank"><u>Special airdrops for holders as puzzle pieces of the animated series.</u></a>',
+                //         status: !0
+                //     }, {
+                //         text: '<a href="https://twitter.com/thestoicdao/status/1452682047080775685" target="_blank"><u>Exclusive Halloween Airdrop for holders of specific traits.</u></a>',
+                //         status: !0
+                //     }, {
+                //         text: "Launch of our own marketplace with 50%+ royalty redistribution to the StoicDao DAO.",
+                //         status: !1
+                //     }, {
+                //         text: "Questing with gen2 airdrops of our animated series.",
+                //         status: !1
+                //     }, {
+                //         text: "Ongoing integration of our StoicDao NFTs with a multitude of Metaverse projects.",
+                //         status: !0
+                //     }]
+                // }
+            ];
 
             function g() {
                 var e = (0, r.useRef)(),
@@ -206,9 +206,7 @@
                             }
                         })
                     }))
-                }), [a, s]), (0, h.jsx)("div", 
-      {}
-                )
+                }), [a, s]), (0, h.jsx)("div", {})
             }
             var x = a(930);
 
@@ -247,45 +245,45 @@
                                 className: "text-60 s:text-90 l:text-[11rem] xl:text-90 text-white tracking-tighter leading-none js-i-title",
                                 children: ["Welcome to the ", (0, h.jsx)("br", {
                                     className: "hidden s:block"
-                                }), "StoicDao"]
+                                }), "StoicDao."]
                             }), (0, h.jsx)("p", {
                                 className: "s:w-9/12 mt-40 l:text-22 xl:text-22 js-i-text",
                                 children: ""
                             }), (0, h.jsxs)("div", {
                                 className: "flex flex-wrap mt-3 js-i-buttons",
                                 children: [(0, h.jsxs)("a", {
-                                    href: "https://redpandasquad.medium.com/introducing-the-red-panda-squad-3d29b31205b6",
-                                    target: "_blank",
-                                    rel: "noreferrer",
-                                    className: "mt-20 group mr-20 flex items-center leading-none font-italic h-[5.5rem] px-20 bg-red-400 rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-red-500 wct ",
-                                    children: ["Join the whitelist ↗", (0, h.jsx)("svg", {
-                                        viewBox: "0 0 1043.63 592.71",
-                                        className: "h-[1.75rem] w-[auto] fill-current ml-[0.75rem]",
-                                        
+                                        href: "https://redpandasquad.medium.com/introducing-the-red-panda-squad-3d29b31205b6",
+                                        target: "_blank",
+                                        rel: "noreferrer",
+                                        className: "mt-20 group mr-20 flex items-center leading-none font-italic h-[5.5rem] px-20 bg-red-400 rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-red-500 wct ",
+                                        children: ["Join the whitelist ↗", (0, h.jsx)("svg", {
+                                            viewBox: "0 0 1043.63 592.71",
+                                            className: "h-[1.75rem] w-[auto] fill-current ml-[0.75rem]",
 
-                                    }
-                                    )]
-                                },), 
-                                // (0, h.jsxs)("a", {
-                                //     href: "#youtube",
-                                //     className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
-                                //     children: ["Mint (Coming soon)", (0, h.jsx)("img", {
-                                //         // src: "/youtube.png",
-                                //         alt: "",
-                                //         className: "ml-[1rem] w-auto h-[3rem]"
-                                //     })]
-                                // }),
-                                
-                                (0, h.jsx)("button", {
 
-                                    // onClick: function () {
-                                    //     return s(!a)
-                                    // },
-                                    // type: "button",
-                                    // className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
-                                    // children: "Buy Your StoicDao"
+                                        })]
+                                    }, ),
+                                    // (0, h.jsxs)("a", {
+                                    //     href: "#youtube",
+                                    //     className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
+                                    //     children: ["Mint (Coming soon)", (0, h.jsx)("img", {
+                                    //         // src: "/youtube.png",
+                                    //         alt: "",
+                                    //         className: "ml-[1rem] w-auto h-[3rem]"
+                                    //     })]
+                                    // }),
 
-                                })]
+                                    (0, h.jsx)("button", {
+
+                                        // onClick: function () {
+                                        //     return s(!a)
+                                        // },
+                                        // type: "button",
+                                        // className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
+                                        // children: "Buy Your StoicDao"
+
+                                    })
+                                ]
                             })]
                         }), (0, h.jsx)("div", {
                             className: "w-9/12 s:w-5/12 flex justify-center pt-100 s:pt-0 mx-auto s:mx-0",
@@ -411,10 +409,7 @@
                 }), [a, s]), (0, h.jsxs)("div", {
                     ref: e,
                     className: "overflow-hidden relative flex justify-end pt-100 text-purple-900 px-45 s:px-100 pb-100 s:pb-150 bg-purple-100",
-                    children: [(0, h.jsx)("div", {
-                    }), (0, h.jsx)("div", {
-                    }), (0, h.jsx)("div", {
-                    }), (0, h.jsxs)("div", {
+                    children: [(0, h.jsx)("div", {}), (0, h.jsx)("div", {}), (0, h.jsx)("div", {}), (0, h.jsxs)("div", {
                         className: "w-full  s:pr-100",
                         children: [(0, h.jsx)("h2", {
                             className: "text-65 tracking-tighter leading-none mb-40 js-s-fade text-center",
@@ -427,7 +422,7 @@
                             }), (0, h.jsx)("p", {
                                 className: "js-s-fade text-center text-white text-40",
                                 children: "StoicDAO NFT holders will be able to join an exclusive discord channel, where they, alongside seasoned traders, will present, analyze and eventually vote (through our custom built voting dApp) on potential trades. If the community votes on selling a profitable trade, 100% of the profits are then distributed to nft holders."
-                            }), (0, h.jsxs)("blockquote", {}), (0, h.jsx)("p", {}), (0, h.jsx)("p", { })]
+                            }), (0, h.jsxs)("blockquote", {}), (0, h.jsx)("p", {}), (0, h.jsx)("p", {})]
                         })]
                     })]
                 })
@@ -591,7 +586,7 @@
                 text: "Our StoicDao reside in the world of Solana. A land with cheap gas, instant transactions, and an unstoppable community."
             }, {
                 question: "More questions?",
-                text: 'Join our community on either <a href="https://discord.com/invite/redpandasquad" target="_blank" className="text-purple-500">Discord</a> or <a href="https://twitter.com/Red_Panda_Squad" target="_blank" className="text-purple-500">Twitter</a> and ask us anything there.'
+                text: 'Join our community on either <a href="https://discord.com/invite/redpandasquad" target="_blank" className="text-purple-500">Discord</a> or <a href="https://twitter.com/thestoicdao" target="_blank" className="text-purple-500">Twitter</a> and ask us anything there.'
             }];
 
             function S() {
@@ -622,30 +617,30 @@
 
             function P() {
                 return (0, h.jsxs)("section", {}
-                // {
-                //     id: "merch",
-                //     className: "relative px-45 s:px-100 py-80 s:py-125 flex flex-col items-center justify-center bg-purple-200",
-                //     children: [(0, h.jsx)("h2", {
-                //         className: "text-65 text-center text-purple-900 tracking-tighter leading-none w-full mb-75 js-s-fade",
-                //         children: "Merch Store (Preview)"
-                //     }), (0, h.jsx)("div", {
-                //         className: "w-full grid grid-cols-12 gap-20",
-                //         children: R.map((function (e, t) {
-                //             return (0, h.jsxs)("figure", {
-                //                 className: "col-span-12 s:col-span-4 relative",
-                //                 children: [(0, h.jsx)("div", {
-                //                     style: {
-                //                         paddingTop: "100%"
-                //                     }
-                //                 }), (0, h.jsx)("img", {
-                //                     src: "/merch-".concat(e, ".jpg"),
-                //                     alt: "",
-                //                     className: "absolute top-0 left-0 w-full h-full object-cover"
-                //                 })]
-                //             }, t)
-                //         }))
-                //     })]
-                // }
+                    // {
+                    //     id: "merch",
+                    //     className: "relative px-45 s:px-100 py-80 s:py-125 flex flex-col items-center justify-center bg-purple-200",
+                    //     children: [(0, h.jsx)("h2", {
+                    //         className: "text-65 text-center text-purple-900 tracking-tighter leading-none w-full mb-75 js-s-fade",
+                    //         children: "Merch Store (Preview)"
+                    //     }), (0, h.jsx)("div", {
+                    //         className: "w-full grid grid-cols-12 gap-20",
+                    //         children: R.map((function (e, t) {
+                    //             return (0, h.jsxs)("figure", {
+                    //                 className: "col-span-12 s:col-span-4 relative",
+                    //                 children: [(0, h.jsx)("div", {
+                    //                     style: {
+                    //                         paddingTop: "100%"
+                    //                     }
+                    //                 }), (0, h.jsx)("img", {
+                    //                     src: "/merch-".concat(e, ".jpg"),
+                    //                     alt: "",
+                    //                     className: "absolute top-0 left-0 w-full h-full object-cover"
+                    //                 })]
+                    //             }, t)
+                    //         }))
+                    //     })]
+                    // }
                 )
             }
             var q = [{
@@ -696,69 +691,69 @@
             function T(e) {
                 var t = (0, r.useRef)();
                 return (0, h.jsxs)("div", {}
-                // {
+                    // {
 
-                //     ref: t,
-                //     id: "partners",
-                //     className: "relative bg-purple-600 px-45 s:px-150 py-75",
-                //     children: [(0, h.jsx)("h2", {
-                //         className: "text-65 text-center text-white mb-40",
-                //         children: "Our Partners"
-                //     }), (0, h.jsx)("div", {
-                //         className: "grid grid-cols-2 s:grid-cols-5 gap-x-50 s:gap-x-150",
-                //         children: q.map((function (e, t) {
-                //             var a = e.name,
-                //                 r = e.url,
-                //                 s = e.logo,
-                //                 n = e.small;
-                //             return (0, h.jsx)("figure", {
-                //                 className: "relative",
-                //                 children: (0, h.jsxs)("a", {
-                //                     href: r,
-                //                     className: "relative block",
-                //                     children: [(0, h.jsx)("div", {
-                //                         style: {
-                //                             paddingTop: "100%"
-                //                         }
-                //                     }), (0, h.jsx)("img", {
-                //                         src: s,
-                //                         alt: a,
-                //                         className: "absolute ".concat(n ? "top-[20%] left-[20%] w-[60%] h-[60%]" : "top-0 left-0 w-full h-full", " object-contain")
-                //                     })]
-                //                 })
-                //             }, t)
-                //         }))
-                //     })]
-                // }
+                    //     ref: t,
+                    //     id: "partners",
+                    //     className: "relative bg-purple-600 px-45 s:px-150 py-75",
+                    //     children: [(0, h.jsx)("h2", {
+                    //         className: "text-65 text-center text-white mb-40",
+                    //         children: "Our Partners"
+                    //     }), (0, h.jsx)("div", {
+                    //         className: "grid grid-cols-2 s:grid-cols-5 gap-x-50 s:gap-x-150",
+                    //         children: q.map((function (e, t) {
+                    //             var a = e.name,
+                    //                 r = e.url,
+                    //                 s = e.logo,
+                    //                 n = e.small;
+                    //             return (0, h.jsx)("figure", {
+                    //                 className: "relative",
+                    //                 children: (0, h.jsxs)("a", {
+                    //                     href: r,
+                    //                     className: "relative block",
+                    //                     children: [(0, h.jsx)("div", {
+                    //                         style: {
+                    //                             paddingTop: "100%"
+                    //                         }
+                    //                     }), (0, h.jsx)("img", {
+                    //                         src: s,
+                    //                         alt: a,
+                    //                         className: "absolute ".concat(n ? "top-[20%] left-[20%] w-[60%] h-[60%]" : "top-0 left-0 w-full h-full", " object-contain")
+                    //                     })]
+                    //                 })
+                    //             }, t)
+                    //         }))
+                    //     })]
+                    // }
                 )
             }
 
             function E() {
                 return (0, h.jsxs)("section", {}
-                // {
-                //     id: "youtube",
-                //     className: "relative px-45 s:px-200 py-80 s:py-125 flex flex-col items-center justify-center bg-white",
-                //     children: [(0, h.jsx)("h2", {
-                //         className: "text-65 text-center text-purple-900 tracking-tighter leading-none w-full mb-75 js-s-fade",
-                //         children: "StoicDao Banksy Tunnel Street Art"
-                //     }), (0, h.jsxs)("div", {
-                //         className: "relative w-full shadow-2xl",
-                //         children: [(0, h.jsx)("div", {
-                //             style: {
-                //                 paddingTop: "56.25%"
-                //             }
-                //         }), (0, h.jsx)("iframe", {
-                //             className: "absolute top-0 left-0 w-full h-full",
-                //             width: "560",
-                //             height: "315",
-                //             src: "https://www.youtube.com/embed/QVf1IuTqIps?rel=0",
-                //             title: "YouTube video player",
-                //             frameborder: "0",
-                //             allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
-                //             allowfullscreen: !0
-                //         })]
-                //     })]
-                // }
+                    // {
+                    //     id: "youtube",
+                    //     className: "relative px-45 s:px-200 py-80 s:py-125 flex flex-col items-center justify-center bg-white",
+                    //     children: [(0, h.jsx)("h2", {
+                    //         className: "text-65 text-center text-purple-900 tracking-tighter leading-none w-full mb-75 js-s-fade",
+                    //         children: "StoicDao Banksy Tunnel Street Art"
+                    //     }), (0, h.jsxs)("div", {
+                    //         className: "relative w-full shadow-2xl",
+                    //         children: [(0, h.jsx)("div", {
+                    //             style: {
+                    //                 paddingTop: "56.25%"
+                    //             }
+                    //         }), (0, h.jsx)("iframe", {
+                    //             className: "absolute top-0 left-0 w-full h-full",
+                    //             width: "560",
+                    //             height: "315",
+                    //             src: "https://www.youtube.com/embed/QVf1IuTqIps?rel=0",
+                    //             title: "YouTube video player",
+                    //             frameborder: "0",
+                    //             allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+                    //             allowfullscreen: !0
+                    //         })]
+                    //     })]
+                    // }
                 )
             }
             var M = [{
