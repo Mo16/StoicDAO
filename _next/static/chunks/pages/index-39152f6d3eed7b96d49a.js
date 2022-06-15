@@ -263,15 +263,15 @@
 
                                         })]
                                     }, ),
-                                    // (0, h.jsxs)("a", {
-                                    //     href: "#youtube",
-                                    //     className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
-                                    //     children: ["Mint (Coming soon)", (0, h.jsx)("img", {
-                                    //         // src: "/youtube.png",
-                                    //         alt: "",
-                                    //         className: "ml-[1rem] w-auto h-[3rem]"
-                                    //     })]
-                                    // }),
+                                    (0, h.jsxs)("a", {
+                                        href: "#youtube",
+                                        className: "mt-20 text-gray-500 group mr-20 flex items-center leading-none text-18 h-[5.5rem] px-20 bg-white rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-purple-100 wct",
+                                        children: ["Litepaper ⬇", (0, h.jsx)("img", {
+                                            // src: "/youtube.png",
+                                            alt: "",
+                                            className: "ml-[1rem] w-auto h-[3rem]"
+                                        })]
+                                    }),
 
                                     (0, h.jsx)("button", {
 
@@ -294,7 +294,7 @@
                                         paddingTop: "100%"
                                     }
                                 }), (0, h.jsx)("img", {
-                                    src: "/logos/mainlogo.jpg",
+                                    src: "/logos/blackbg.jpg",
                                     className: "absolute top-0 left-0 w-full h-wull object-cover"
                                 })]
                             })

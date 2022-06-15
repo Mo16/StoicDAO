@@ -141,69 +141,16 @@
                                         })
                                     })]
                                 })
-                            }), (0, s.jsx)("li", {
-                                className: "mx-15 s:mx-20 mb-15 s:mb-0",
-                                children: (0, s.jsxs)("a", {
-                                    href: "https://www.instagram.com/redpandasquad_/",
-                                    target: "_blank",
-                                    className: "flex",
-                                    children: ["Instagram", (0, s.jsx)("svg", {
-                                        xmlns: "http://www.w3.org/2000/svg",
-                                        className: "h-[2.25rem] w-[2.25rem] transform rotate-45",
-                                        viewBox: "0 0 20 20",
-                                        fill: "currentColor",
-                                        children: (0, s.jsx)("path", {
-                                            fillRule: "evenodd",
-                                            d: "M5.293 9.707a1 1 0 010-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L11 7.414V15a1 1 0 11-2 0V7.414L6.707 9.707a1 1 0 01-1.414 0z",
-                                            clipRule: "evenodd"
-                                        })
-                                    })]
-                                })
-                            }), (0, s.jsx)("li", {
-                                className: "mx-15 s:mx-20 mb-15 s:mb-0",
-                                children: (0, s.jsxs)("a", {
-                                    href: "https://redpandasquad.medium.com/introducing-the-red-panda-squad-3d29b31205b6",
-                                    target: "_blank",
-                                    className: "flex",
-                                    children: ["Medium", (0, s.jsx)("svg", {
-                                        xmlns: "http://www.w3.org/2000/svg",
-                                        className: "h-[2.25rem] w-[2.25rem] transform rotate-45",
-                                        viewBox: "0 0 20 20",
-                                        fill: "currentColor",
-                                        children: (0, s.jsx)("path", {
-                                            fillRule: "evenodd",
-                                            d: "M5.293 9.707a1 1 0 010-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L11 7.414V15a1 1 0 11-2 0V7.414L6.707 9.707a1 1 0 01-1.414 0z",
-                                            clipRule: "evenodd"
-                                        })
-                                    })]
-                                })
-                            }), (0, s.jsx)("li", {
-                                className: "mx-15 s:mx-20",
-                                children: (0, s.jsxs)("a", {
-                                    href: "mailto:team@redpandasquad.com",
-                                    className: "flex",
-                                    children: ["Email", (0, s.jsx)("svg", {
-                                        xmlns: "http://www.w3.org/2000/svg",
-                                        className: "h-[2.25rem] w-[2.25rem] transform rotate-45",
-                                        viewBox: "0 0 20 20",
-                                        fill: "currentColor",
-                                        children: (0, s.jsx)("path", {
-                                            fillRule: "evenodd",
-                                            d: "M5.293 9.707a1 1 0 010-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L11 7.414V15a1 1 0 11-2 0V7.414L6.707 9.707a1 1 0 01-1.414 0z",
-                                            clipRule: "evenodd"
-                                        })
-                                    })]
-                                })
                             })]
                         }), (0, s.jsxs)("p", {
                             className: "text-20 text-purple-300 text-center mt-60",
                             children: ["Copyright 2021 StoicDao. ", (0, s.jsx)("button", {
                                 type: "button",
                                 onClick: function () {
-                                    return c(!d)
+                                    return window.open("https://www.mochoudhury.me");
                                 },
                                 className: "text-white",
-                                children: "Terms & Conditions"
+                                children: "Created by Mo"
                             }), "."]
                         })]
                     }), (0, s.jsxs)("article", {
