@@ -108,7 +108,7 @@
                             children: [(0, s.jsx)("li", {
                                 className: "mx-15 s:mx-20 mb-15 s:mb-0",
                                 children: (0, s.jsxs)("a", {
-                                    href: "https://discord.com/invite/redpandasquad",
+                                    href: "https://discord.gg/KCekrbsX",
                                     target: "_blank",
                                     className: "flex",
                                     children: ["Discord", (0, s.jsx)("svg", {
@@ -325,7 +325,7 @@
                                 children: [(0, l.jsx)("li", {
                                     className: "mr-30",
                                     children: (0, l.jsxs)("a", {
-                                        href: "https://discord.com/invite/redpandasquad",
+                                        href: "https://discord.gg/KCekrbsX",
                                         target: "_blank",
                                         className: "flex",
                                         children: ["Discord", (0, l.jsx)("svg", {
@@ -523,7 +523,7 @@
                             }), (0, l.jsx)("li", {
                                 className: "",
                                 children: (0, l.jsx)("a", {
-                                    href: "https://discord.com/invite/redpandasquad",
+                                    href: "https://discord.gg/KCekrbsX",
                                     target: "_blank",
                                     className: "flex text-30 mx-15",
                                     children: (0, l.jsx)(a.G, {

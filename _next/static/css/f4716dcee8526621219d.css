@@ -164,7 +164,7 @@ ul {
 }
 
 html {
-    font-family: Balsamiq Sans, cursive;
+    font-family: 'Montserrat';
     line-height: 1.5
 }
 
@@ -819,6 +819,10 @@ video {
     border-radius: 9999px
 }
 
+.rounded {
+    border-radius: 10px
+}
+
 .rounded-\[3rem\] {
     border-radius: 3rem
 }
@@ -908,7 +912,7 @@ video {
 
 .bg-purple-600 {
     --tw-bg-opacity: 1;
-    background-color: rgba(124, 58, 237, var(--tw-bg-opacity))
+    background-color: black
 }
 
 .bg-purple-700 {
@@ -1064,7 +1068,7 @@ video {
 }
 
 .font-sans {
-    font-family: Balsamiq Sans, cursive
+    font-family: 'Montserrat'
 }
 
 .text-65 {
@@ -1096,11 +1100,11 @@ video {
 }
 
 .text-18 {
-    font-size: 3.7rem;
-    padding: 40px;
+    font-size: 2.7rem;
+    padding: 30px;
     font-style: italic;
-    font-weight: 800;
-    color: #8b0000
+    font-weight: 900;
+    color: black
 }
 
 .text-25 {

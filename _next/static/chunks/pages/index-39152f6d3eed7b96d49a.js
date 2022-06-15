@@ -255,7 +255,7 @@
                                         href: "https://redpandasquad.medium.com/introducing-the-red-panda-squad-3d29b31205b6",
                                         target: "_blank",
                                         rel: "noreferrer",
-                                        className: "mt-20 group mr-20 flex items-center leading-none font-italic h-[5.5rem] px-20 bg-red-400 rounded-full relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-red-500 wct ",
+                                        className: "mt-20 group mr-20 flex items-center leading-none font-italic h-[5.5rem] px-20 bg-red-400 rounded relative z-2 before:absolute before:inset-0 before:rounded-full before:shadow-lg transition-transform-colors duration-700 ease-out-expo hover:rotate-[-3deg] hover:scale-[1.05] hover:bg-red-500 wct ",
                                         children: ["Join the whitelist ↗", (0, h.jsx)("svg", {
                                             viewBox: "0 0 1043.63 592.71",
                                             className: "h-[1.75rem] w-[auto] fill-current ml-[0.75rem]",
@@ -586,7 +586,7 @@
                 text: "Our StoicDao reside in the world of Solana. A land with cheap gas, instant transactions, and an unstoppable community."
             }, {
                 question: "More questions?",
-                text: 'Join our community on either <a href="https://discord.com/invite/redpandasquad" target="_blank" className="text-purple-500">Discord</a> or <a href="https://twitter.com/thestoicdao" target="_blank" className="text-purple-500">Twitter</a> and ask us anything there.'
+                text: 'Join our community on either <a href="https://discord.gg/KCekrbsX" target="_blank" className="text-purple-500">Discord</a> or <a href="https://twitter.com/thestoicdao" target="_blank" className="text-purple-500">Twitter</a> and ask us anything there.'
             }];
 
             function S() {
